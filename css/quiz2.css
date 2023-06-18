@@ -1,0 +1,47 @@
+﻿#quiz {
+	background :#66CCFF;
+	padding: 10px 20px 10px 20px;
+	width: 500px;
+	height: 1900px;
+	border-radius: 10px;
+	margin-left: 100px;
+	font-size: 20px;
+	float: left;
+	
+}
+
+#after_submit {
+	visibility: hidden;
+	background:#FF6699;
+	padding: 10px 30px 10px 30px;
+	width: 500px;
+	height: 550px;
+	border-radius: 10px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 750px;
+	font-size: 30px;
+}
+
+#button{
+	background : #00FF00;
+	border : none;
+	border-radius: 5px;
+	width : 300px;
+	height: 50px;
+	color: black;
+	font-size:20px;
+	margin-top:5px;
+}
+
+#button:hover{
+	background :#66FF99;
+	border : none;
+	border-radius: 5px;
+	width : 300px;
+	height: 50px;
+	color: black;
+	font-size:20px;
+	margin-top:5px;
+
+}
