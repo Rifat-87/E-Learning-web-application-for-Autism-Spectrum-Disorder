@@ -1,1 +1,4 @@
 # E-Learning-web-application-for-Autism-Spectrum-Disorder
+The application is a web-based application tailored for teaching Autism Spectrum Disorder patients specially kids. The application will provide a variety of interactive contents to make learning much more easy, friendly and fun. The application will also have a primary autism test to let parents and caretaker know the level of autism the individual in suffering from. Along with resources to better educate the parents and caretakers on what to do and how to do better.
+
+The application will provide a number of key features ranging for online courses, reading materials, interactive games and quiz and also variety of online test. All users can register and sign in their accounts and allow their children for the different courses. Users can see the marks and scores as well as helpful info on what to do moving forward.
